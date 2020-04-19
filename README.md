@@ -1,6 +1,6 @@
 # Screen Space Ambient Occlusion
 Video Demo 
-[![](https://img.youtube.com/vi/ZUti3-WqX8Y/0.jpg)](https://www.youtube.com/watch?v=ZUti3-WqX8Y)
+[![](https://img.youtube.com/vi/ZUti3-WqX8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZUti3-WqX8Y)
 
 
 
